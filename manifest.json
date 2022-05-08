@@ -1,6 +1,6 @@
 {
   "name": "UnrealEngine: See-In-Source",
-  "description": "Adds 'See Header' and 'Search Impl.' buttons to the UnrealEngine web-docs.",
+  "description": "Adds 'See Header' and 'Impl.' buttons to the UnrealEngine web-docs.",
   "author": "sonodima",
   "version": "1.0",
   "manifest_version": 3,

@@ -1,0 +1,27 @@
+.sis-btn {
+  float: left;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 6px 10px;
+  border-radius: 10px;
+  margin-right: 8px;
+  margin-top: -4px;
+
+  cursor: pointer;
+  transition: all 0.2s;
+  user-select: none;
+
+  background-color: #2d2650;
+  color: #ffffff;
+  border: 2px solid #5744b7;
+  box-shadow: 1px 0px 15px #5744b74e;
+}
+
+.sis-btn:hover {
+  background-color: #5744b7;
+  color: #ffffff;
+
+  box-shadow: 1px 0px 20px #5744b7a4;
+}
